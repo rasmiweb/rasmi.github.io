@@ -1,0 +1,14 @@
+.navbar{
+  height: 50px;
+  width: 100%;
+  background: rgb(17,10,10); /* Old browsers */
+background: -webkit-linear-gradient(left, rgba(17,10,10,1) 0%, rgba(173,173,173,1) 100%);
+background: -o-linear-gradient(left, rgba(17,10,10,1) 0%, rgba(173,173,173,1) 100%);
+background: linear-gradient(to right, rgba(17,10,10,1) 0%, rgba(173,173,173,1) 100%); /* FF3.6-15 */ /* Chrome10-25,Safari5.1-6 */ /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#110a0a', endColorstr='#adadad',GradientType=1 ); /* IE6-9 */
+}
+
+.websitelogo{
+  margin-top: -10px;
+  color:#fff;
+}
